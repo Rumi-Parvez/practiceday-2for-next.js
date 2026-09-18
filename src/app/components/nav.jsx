@@ -9,6 +9,9 @@ const Navpage = () => {
         <Link href="/">Home</Link>
       </li>
       <li>
+        <Link href="/foods">Foods</Link>
+      </li>
+      <li>
         <Link href="/daseboard">Daseboard</Link>
       </li>
     </>
